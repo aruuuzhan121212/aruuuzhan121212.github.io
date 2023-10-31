@@ -1,0 +1,150 @@
+.bg {
+    position: absolute;
+    top: 5em;    
+    width: 100%;
+    border-top: 2.5px solid rgb(243, 144, 71);
+    }
+    .ben{position: absolute;
+        left: 2em;
+    width: 120px;
+    }
+    .text1{
+        position: absolute;
+        top: 5em;
+        left: 0.5em;
+        text-align: center;
+        font-family:'Broadway' ;
+        color:  rgb(243, 144, 71);
+        font-size: 25px;
+    }
+    form {
+        position: relative;
+        left: 13em;
+        top: 0.5em;
+        width: 250px;
+    }
+        
+        .d1 input {
+            width: 100%;
+            height: 40px;
+            padding-left: 10px;
+            border: 1px ;
+            border-radius: 10px;
+            outline: none;
+            background: rgb(214, 210, 210);
+            color: #9E9C9C;
+          }
+          .d1 button {
+            position: absolute; 
+            top: 0;
+          right: -1em;
+            width: 41px;
+            height: 41px;
+            border: none;
+            background:  rgb(243, 144, 71);
+            border-radius: 10px;
+            cursor: pointer;
+          }
+          .d1 button:before {
+       
+            font-family: FONTAW;
+            font-size: 16px;
+            color: #F9F0DA;
+          }
+          .lup{margin-top: 0.5em;
+            width: 18px;
+          }
+          .iconk{
+            list-style: none;
+            display: flex;
+            color: black;
+            font-family: "Century Gothic";
+            margin-left: 30em;
+          }
+          .a {display: inline;
+            text-decoration: none;
+            color: black;
+        margin-top: -1em;
+        margin-left: 7em;
+        line-height: 80%;
+          }
+          .btn1 {position: absolute;
+          right: 5em;
+          top: 1em;
+          cursor: pointer;
+              background-color:  rgb(214, 210, 210);
+          height: 50px;
+              width: 120px;
+              font-size: 1em;
+                  border-color: white;
+                  border-radius: 10px;
+                }
+  .textq{
+    position: absolute;
+    top: 8em;
+    left: 13em;
+    text-align: center;
+    font-family:'Century Gothic' ;
+    color:  black;
+    font-size: 30px;
+    font-weight: bold;
+  }    
+  .q1{position: absolute;
+width: 1020px;
+top: 17em;
+left: 20em;
+font-family:'Century Gothic' ;
+color:  black;
+font-size: 20px;
+  }          
+  .textw{
+    position: absolute;
+    top: 22em;
+    left: 19em;
+    text-align: center;
+    font-family:'Century Gothic' ;
+    color:  black;
+    font-size: 22px;
+    font-weight: bold;
+  }    
+  .w1{
+    position: absolute;
+width: 1060px;
+top: 30em;
+left: 22em;
+font-family:'Century Gothic' ;
+color:  black;
+font-size: 18px;
+  }
+  .texte{
+    position: absolute;
+    top: 57em;
+    left: 19em;
+    text-align: center;
+    font-family:'Century Gothic' ;
+    color:  black;
+    font-size: 22px;
+    font-weight: bold;
+  }    
+  .e1{
+    position: absolute;
+width: 1060px;
+top:74em;
+left: 22em;
+font-family:'Century Gothic' ;
+color:  black;
+font-size: 18px;
+  }
+  .his{
+    position: absolute;
+    width: 480px;
+    height: 260px;
+  top: 46.5em;
+  left: 60em;
+  }
+  .trad{ position: absolute;
+    width: 550px;
+  top: 96.5em;
+  left: 64em;
+
+  }
